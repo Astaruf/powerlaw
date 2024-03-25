@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Follow the white rabbit"
       introSubtitle = "Embrace the Power Law."
-      introPhoto = "img/img_5.jpg"
+      introPhoto = "../img/img_5.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -43,7 +43,7 @@ DefaultContentLanguageInSubdir = true
     [languages.it.params]
       introTitle = "Ciao! Siamo PowerLowers"
       introSubtitle = "Testo in italiano"
-      introPhoto = "img/img_5.jpg"
+      introPhoto = "../img/img_5.jpg"
       logo = "/blist-logo.png"
     [[languages.it.menu.main]]
         name = "Blog"
