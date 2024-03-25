@@ -4,6 +4,7 @@ date = 2024-03-25T09:02:58-04:00
 author = "ChatGPT"
 description = "Our first post!"
 tags = ["hello","blog"]
+thumbnail = "/powerlaw.github.io/en/blog/hello_world/images/img_2.jpg"
 draft = false
 +++
 

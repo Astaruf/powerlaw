@@ -1,6 +1,6 @@
 baseURL = 'https://astaruf.github.io/powerlaw.github.io'
 languageCode = 'en-us'
-title = 'Power Law Site'
+title = 'PowerLawers'
 metaDataFormat = "yaml"
 theme = "blist"
 
