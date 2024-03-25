@@ -1,4 +1,4 @@
-baseURL = 'https://astaruf.github.io/'
+baseURL = 'https://astaruf.github.io/powerlaw'
 languageCode = 'en-us'
 title = 'PowerLawers'
 metaDataFormat = "yaml"
@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Follow the white rabbit"
       introSubtitle = "Embrace the Power Law."
-      introPhoto = "/img_5.jpg"
+      introPhoto = "img_5.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -43,7 +43,7 @@ DefaultContentLanguageInSubdir = true
     [languages.it.params]
       introTitle = "Ciao! Siamo PowerLowers"
       introSubtitle = "Testo in italiano"
-      introPhoto = "/img_5.jpg"
+      introPhoto = "img_5.jpg"
       logo = "/blist-logo.png"
     [[languages.it.menu.main]]
         name = "Blog"
@@ -87,7 +87,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 20234 - Power Lawers · All rights reserved"
+  copyright = "Copyright © 2024 - Power Lawers · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
