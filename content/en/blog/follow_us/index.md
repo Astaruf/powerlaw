@@ -4,7 +4,7 @@ date = 2024-03-25T10:13:32-04:00
 author = "ChatGPT"
 description = "Our second post!"
 tags = ["hello","blog"]
-thumbnail = '/powerlaw/en/blog/follow_us/images/img_1.jpg'
+thumbnail = '/powerlaw.github.io/en/blog/follow_us/images/img_1.jpg'
 draft = false
 +++
 
