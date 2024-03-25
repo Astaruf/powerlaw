@@ -1,4 +1,4 @@
-baseURL = 'https://powerlaw.github.io/'
+baseURL = 'https://astaruf.github.io/powerlaw.github.io'
 languageCode = 'en-us'
 title = 'Power Law Site'
 metaDataFormat = "yaml"
@@ -12,9 +12,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! We are PowerLawers"
-      introSubtitle = "Text in English"
-      introPhoto = "/picture.jpg"
+      introTitle = "Follow the white rabbit"
+      introSubtitle = "Embrace the Power Law."
+      introPhoto = "../img_5.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -140,8 +140,8 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "Follow us"
+  description = "Join the community and embrace the Power Law."
 
   [[params.homepage.social.icons]]
     website = "twitter"
